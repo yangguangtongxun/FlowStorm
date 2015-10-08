@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_page_item_img_names">
+        <item>home_img_1.jpg</item>
+        <item>home_img_2.jpg</item>
+        <item>home_img_3.jpg</item>
+    </string-array>
+</resources>
